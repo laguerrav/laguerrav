@@ -1,7 +1,7 @@
 ## Welcome to my profile
 
-<div align="center">
-<img src="https://img.freepik.com/free-photo/city-architecture-landscape-digital-art_23-2151065664.jpg?t=st=1739645026~exp=1739648626~hmac=71565b799826e5192f9df2ff2fcbdc8c7f6c8ed6eb935828055e5589d424230c&w=996" align="center" style="width: 50%" />
+<div align = "center">
+<img src = "https://i.imgur.com/qtQGXvn.gif" align="center" style="width: 100%" />
 </div>  
   
 
