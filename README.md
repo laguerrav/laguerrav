@@ -8,8 +8,7 @@
 ### <div align="center">Hello! I'm Laura, nice to meet ya :)</div>  
   
 
-- 💻 learning pynthon  
--  ⚠️ audiovisual nerd alert  
+- 💻 learning java  
   
 
 <br/>  
